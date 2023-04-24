@@ -8,5 +8,6 @@ Now choose Linux as OS and Oracle-64bit as Version
 Then click next as many times as needed then launch the SnowCrash VM:
 Select the path to the iso.
 Now stop the VM and in the Network settings, go to Port Forwarding and Add a new one:
-![](https://github.com/Raiklan/SnowCrash/blob/main/assets/VirtualBox_SnowCrash_24_04_2023_16_22_44.png)
+![](https://github.com/Raiklan/SnowCrash/blob/main/assets/Screenshot%20from%202023-04-24%2016-24-02.png)
 Now relaunch the VM and we are good to go !
+![](https://github.com/Raiklan/SnowCrash/blob/main/assets/VirtualBox_SnowCrash_24_04_2023_16_22_44.png)
