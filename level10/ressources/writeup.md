@@ -39,7 +39,7 @@ First one will listen on 6969,
 
     nc -lk 6969
 Second will send the script via level10:
-`while true; do ./level10 /tmp/crack  127.0.0.1 `
+`while true; do ./level10 /tmp/crack  127.0.0.1; done `
 
 and Third will run the script
 
