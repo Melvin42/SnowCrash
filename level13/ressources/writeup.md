@@ -57,7 +57,7 @@ Let's try using gdb:
 	   0x080485e8 <+92>:	leave
 	   0x080485e9 <+93>:	ret
 	End of assembler dump.
-We see that there is a comparison between $0x1092(=4242) and eax registry let's modift eax during exec:
+We see that there is a comparison between $0x1092(=4242) and eax registry let's modify eax during exec:
 
     (gdb) b getuid
 	Breakpoint 1 at 0x8048380
