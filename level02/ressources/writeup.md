@@ -5,7 +5,7 @@
 
 On copie ce fichier dans notre ordinateur pour l'analyser  avec cet commande:
 
-melperri: scp -P 4242 level02@192.168.1.3:/home/user/level02/level02.pcap melperri@127.0.0.1 /home/melperri
+    melperri: scp -P 4242 level02@192.168.1.3:/home/user/level02/level02.pcap melperri@127.0.0.1 /home/melperri
     level02.pcap done
     melperri: tcpick -C -yP -r level02.pcap
     ft_wandr...NDRel.L0L
